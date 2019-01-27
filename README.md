@@ -1,2 +1,0 @@
-# Data-analytiikka
-Portfolioni
