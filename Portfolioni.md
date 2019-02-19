@@ -1,3 +1,3 @@
 # Data-analytiikka
-Portfolioni
+Portfolioni, 
 Täältä löytyy tekemiäni koodinpätkiä.
